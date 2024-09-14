@@ -1,0 +1,8 @@
+h1
+{
+    background-color:red;
+    background-image: repeating-linear-gradient();
+    background-position-x: center
+
+    color:black;
+}
